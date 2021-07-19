@@ -13,4 +13,4 @@ pytz
 soupsieve
 sqlparse
 whitenoise
-
+django-jenkins
