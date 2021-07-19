@@ -169,12 +169,12 @@ pip-selfcheck.json
 *.env
 docker-compose.prod.yml
 docker-compose.yml
-Dockerfile               
-Dockerfile.prod 
+             
+
 *docker-compose.prod.yml
 *docker-compose.yml
-*Dockerfile               
-*Dockerfile.prod 
+              
+
 
 
 
