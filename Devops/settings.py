@@ -44,12 +44,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'rest_framework.authtoken',
-    'django-jenkins'
+    
 ]
 
-JENKINS_TASKS = (
-    'django_jenkins.tasks.run_pylint',
-)
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
