@@ -9,7 +9,7 @@ node {
             sh 'virtualenv env -p python3.9'
             sh '. env/bin/activate'
             sh 'env/bin/pip install -r requirements.txt'
-            sh 'env/bin/python3.5 manage.py test.py'
+            sh 'env/bin/python3.9 manage.py test.py'
         stage 'Deploy'
             sh './deployment/deploy_prod.sh'
 
