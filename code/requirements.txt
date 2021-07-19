@@ -1,0 +1,16 @@
+djangorestframework
+djangorestframework-simplejwt
+beautifulsoup4
+config
+dj-database-url
+django-cors-headers
+Django
+django-bootstrap4
+django-heroku
+gunicorn
+python-decouple
+pytz
+soupsieve
+sqlparse
+whitenoise
+
